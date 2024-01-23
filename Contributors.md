@@ -1008,6 +1008,7 @@ Alexander
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
 - [Rajiv Paul](https://github.com/rajiv-paul)
 - [NabeelWaq1](https://github.com/NabeelWaq1)
+- Rachel
 - [`Ethan Villarosa`](https://github.com/something456)
 - [nami773](https://github.com/nami773/)
 - [Komsan21](https://github.com/komsan21)
